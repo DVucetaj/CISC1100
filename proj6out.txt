@@ -1,0 +1,147 @@
+ACCOUNT#:      1                ACCOUNT#:      2
+BALANCE: $  0.41                BALANCE: $184.67
+
+ACCOUNT#:      3                ACCOUNT#:      4
+BALANCE: $ 63.34                BALANCE: $265.00
+
+ACCOUNT#:      5                ACCOUNT#:      6
+BALANCE: $191.69                BALANCE: $157.24
+
+ACCOUNT#:      7                ACCOUNT#:      8
+BALANCE: $114.78                BALANCE: $293.58
+
+ACCOUNT#:      9                ACCOUNT#:     10
+BALANCE: $269.62                BALANCE: $244.64
+
+ACCOUNT#:     11                ACCOUNT#:     12
+BALANCE: $ 57.05                BALANCE: $281.45
+
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+R
+
+
+ INVALID INPUT. PLEASE CHOOSE SOMETHING FROM MENU
+
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+n
+
+Please enter requested account number->12
+ERROR: Account number already exists.
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+n
+
+Please enter requested account number->13
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+b
+
+Please enter requested account number-> 14
+Account does not exist. Please try again
+
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+b
+
+Please enter requested account number-> 13
+Accont# 13 Balance: $0.00
+
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+w
+
+Please enter requested account number-> n
+Not a number. Please try again
+Please enter requested account number-> 2
+Please enter the amount you would like to withdraw->100000
+INSUFFICIENT FUNDS. Transaction cancelled
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+w
+
+Please enter requested account number-> 2
+Please enter the amount you would like to withdraw->50
+Remaining Balance: 134.67
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+w
+
+Please enter requested account number-> 2
+Please enter the amount you would like to withdraw->-10
+Not a valid input. Please try again
+Please enter requested withdraw amount-> 0
+Remaining Balance: 134.67
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+d
+
+Please enter requested account number-> d
+Not a number. Please try again
+Please enter requested account number-> 1
+Please enter the amount you would like to Deposit->t
+Not a valid input. Please try again
+Please enter requested deposit amount-> 50
+Account Balance: 50.41
+                Select one of the following
+                W - Withdrawl
+                D - Deposit
+                N - New account
+                B - Balance
+                Q - Quit
+q
+
+ACCOUNT#:      1                ACCOUNT#:      2
+BALANCE: $ 50.41                BALANCE: $134.67
+
+ACCOUNT#:      3                ACCOUNT#:      4
+BALANCE: $ 63.34                BALANCE: $265.00
+
+ACCOUNT#:      5                ACCOUNT#:      6
+BALANCE: $191.69                BALANCE: $157.24
+
+ACCOUNT#:      7                ACCOUNT#:      8
+BALANCE: $114.78                BALANCE: $293.58
+
+ACCOUNT#:      9                ACCOUNT#:     10
+BALANCE: $269.62                BALANCE: $244.64
+
+ACCOUNT#:     11                ACCOUNT#:     13
+BALANCE: $ 57.05                BALANCE: $  0.00
